@@ -45,7 +45,6 @@ Full-stack developer focused on building **clean, performant web applications**,
 
 **DevOps & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=docker,git,vercel" alt="DevOps" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway" />
 
 </div>
 
