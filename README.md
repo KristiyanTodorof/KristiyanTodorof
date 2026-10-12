@@ -33,5 +33,15 @@ Full-stack developer focused on building clean, performant web applications — 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KristiyanTodorof&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanTodorof&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KristiyanTodorof&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 <sub>Open to freelance projects and collaborations — reach out via the portfolio.</sub>
