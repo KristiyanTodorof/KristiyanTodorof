@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Kristiyan%20Todorov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Header" width="100%" />
-
-<a href="https://github.com/KristiyanTodorof">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Building+clean%2C+performant+web+apps;From+reactive+UIs+to+scalable+APIs;React+%7C+Node.js+%7C+Spring+%7C+.NET" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Full-Stack%20Web%20Developer&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Full-Stack Web Developer" width="100%" />
 
 <br/>
 
