@@ -37,7 +37,8 @@ Full-stack developer focused on building **clean, performant web applications**,
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,php,laravel,dotnet" alt="Backend" />
 
 **Databases & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,graphql,sql" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,graphql" alt="Databases" /><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 
 **DevOps & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=docker,git,vercel" alt="DevOps" />
