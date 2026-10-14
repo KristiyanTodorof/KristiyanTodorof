@@ -37,7 +37,7 @@ Full-stack developer focused on building **clean, performant web applications**,
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,php,laravel,dotnet" alt="Backend" />
 
 **Databases & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,graphql" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,graphql, sql" alt="Databases" />
 
 **DevOps & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=docker,git,vercel" alt="DevOps" />
